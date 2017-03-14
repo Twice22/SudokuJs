@@ -1,0 +1,24 @@
+canvas {
+	display: block;
+	margin: 0 auto;
+}
+
+.container {
+	display: block;
+	margin: 0 auto;
+	text-align: center;
+}
+
+#solve, #reset {
+	background-color: #000;
+	position: relative;
+	display: inline-block;
+	border: none;
+	width: 200px;
+	height: 50px;
+	font-size: 24px;
+	color: white;
+	text-transform: uppercase;
+	cursor: pointer;
+	outline: 0;
+}
