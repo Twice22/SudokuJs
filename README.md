@@ -34,6 +34,6 @@ in the `samples` array (where 0 represent an empty case). Each number is filled 
 ```javascript
 	samples = ["400001070317005060000004000200300708006000900804009006000900000020800354050400007"];
 ```
-Then open index.html` with your browser and press _solve_
+Then open `index.html` with your browser and press _solve_
 
 
